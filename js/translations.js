@@ -20,6 +20,8 @@ const translations = {
         heroStat3: 'Key Quotes',
         heroDate: 'February 2026 (Before Chinese New Year)',
         heroOrganizer: 'Organized by: Ken (Chars ED) & Aki',
+        heroVideoTitle: '📹 Full Course Recording',
+        heroVideoDesc: 'Watch the complete workshop recording anytime',
 
         // Core Concepts
         conceptsTag: 'Core Concepts',
@@ -202,6 +204,8 @@ const translations = {
         heroStat3: '金句摘錄',
         heroDate: '2026 年 2 月（農曆新年前）',
         heroOrganizer: '主辦：Ken（Chars ED）& Aki',
+        heroVideoTitle: '📹 完整課程錄影',
+        heroVideoDesc: '隨時回看完整工作坊內容',
 
         // Core Concepts
         conceptsTag: '核心觀念',
@@ -384,6 +388,8 @@ const translations = {
         heroStat3: '金句摘录',
         heroDate: '2026 年 2 月（农历新年前）',
         heroOrganizer: '主办：Ken（Chars ED）& Aki',
+        heroVideoTitle: '📹 完整课程录影',
+        heroVideoDesc: '随时回看完整工作坊内容',
 
         // Core Concepts
         conceptsTag: '核心观念',
