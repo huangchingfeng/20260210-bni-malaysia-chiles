@@ -66,17 +66,4 @@ document.addEventListener('DOMContentLoaded', function() {
         el.style.transition = 'opacity 0.5s ease, transform 0.5s ease';
         observer.observe(el);
     });
-
-    // Language Switcher - Initialize from translations.js
-    const savedLang = localStorage.getItem('preferredLanguage') || 'en';
-    setLanguage(savedLang);
-
-    // Add click handlers to language buttons
-    document.querySelectorAll('.lang-btn').forEach(btn => {
-        btn.addEventListener('click', function(e) {
-            e.preventDefault();
-            const lang = this.getAttribute('data-lang-switch');
-            setLanguage(lang);
-        });
-    });
 });
